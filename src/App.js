@@ -1,7 +1,7 @@
 import './App.css';
-import SpotifyLogin from "./SpotifyLogin";
+import SpotifyLogin from "./app/pages/SpotifyLogin";
 import {Route, Routes} from "react-router-dom";
-import Menu from "./Menu";
+import Menu from "./app/pages/Menu";
 
 function App() {
   return (
