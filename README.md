@@ -11,7 +11,7 @@ This project allows you to:
 
 To get started, you first need to create an application in your Spotify developer dashboard: https://developer.spotify.com/documentation/web-api/concepts/apps
 
-1. **Cloner the project**
+1. **Clone the project**
 ```sh
 git clone https://github.com/votre-utilisateur/spotify-playlist.git
 cd spotify-playlist
